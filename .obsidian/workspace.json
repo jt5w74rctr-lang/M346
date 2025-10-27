@@ -11,10 +11,14 @@
             "id": "94179ecc29890285",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test"
             }
           }
         ]
@@ -173,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c33a73b3f686cc5",
+  "active": "f13dc8515ccf16e2",
   "lastOpenFiles": [
+    "Test.md",
     "Welcome.md"
   ]
 }
